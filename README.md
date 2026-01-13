@@ -9,6 +9,9 @@ The goal is to identify the most reliable model and understand which operational
 
 Can we accurately predict Good Footage using operational and machine-level data, and determine which factors most influence production performance?
 
+Project Timeline:
+Core development completed in December 2025.
+
 ## 🔐 Data Confidentiality
 Due to a signed **Non-Disclosure Agreement (NDA)**, the original dataset cannot be shared.  
 This project demonstrates the complete machine learning workflow while respecting data privacy and confidentiality obligations.
