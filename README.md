@@ -16,7 +16,7 @@ Core development completed in December 2025.
 Due to a signed **Non-Disclosure Agreement (NDA)**, the original dataset cannot be shared.  
 This project demonstrates the complete machine learning workflow while respecting data privacy and confidentiality obligations.
 
-🧾 Dataset & Key Features
+# 🧾 Dataset & Key Features
 
 The dataset contains manufacturing operation data with the following important features:
 
@@ -40,7 +40,7 @@ Feet / Hour
 
 Good Footage
 
-🤖 Models Implemented
+# 🤖 Models Implemented
 
 Three machine learning models were trained and evaluated:
 
@@ -53,17 +53,17 @@ Artificial Neural Network (ANN)	99.69%
 
 ✅ ANN was chosen as the best balance between accuracy, stability, and robustness.
 
-📊 Model Accuracy Comparison
+# 📊 Model Accuracy Comparison
 
 The chart below compares the test accuracies of all three models:
 <img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/490ac78c-8570-482c-9934-208f37f45b10" />
 
-🔍 Feature Importance Analysis
+# 🔍 Feature Importance Analysis
 
 Feature importance analysis revealed that Labels Produced is the most influential factor in predicting Good Footage.
 <img width="659" height="455" alt="image" src="https://github.com/user-attachments/assets/88223a70-cf10-485f-adf7-d2fd6318e18c" />
 
-🔑 Key Insights:
+# 🔑 Key Insights:
 
 Labels Produced has the strongest impact on yield
 
@@ -71,7 +71,7 @@ Total Hours and Feet / Hour also play significant roles
 
 Operator and machine-level variables contribute meaningfully to performance variation
 
-💼 Business Impact
+# 💼 Business Impact
 
 This model can help manufacturing teams:
 
@@ -83,7 +83,7 @@ This model can help manufacturing teams:
 
 💰 Improve profit margins by turning raw production data into actionable insights
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -101,7 +101,7 @@ TensorFlow / Keras (Neural Network modeling)
 
 Matplotlib (visualizations)
 
-🚀 Key Takeaways
+# 🚀 Key Takeaways
 
 Built an end-to-end ML pipeline from data preprocessing to model evaluation
 
