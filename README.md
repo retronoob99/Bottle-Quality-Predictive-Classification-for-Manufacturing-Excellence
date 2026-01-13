@@ -59,6 +59,7 @@ The chart below compares the test accuracies of all three models:
 
 Feature importance analysis revealed that Labels Produced is the most influential factor in predicting Good Footage.
 <img width="659" height="455" alt="image" src="https://github.com/user-attachments/assets/88223a70-cf10-485f-adf7-d2fd6318e18c" />
+
 🔑 Key Insights:
 
 Labels Produced has the strongest impact on yield
